@@ -2,6 +2,9 @@
 y luego mostrarlo por 'alert' al presionar el botón  'mostrar'*/
 function mostrar()
 {
+	var person = prompt("Porfabor ingresa tu nombre", "Nombre");
 	
+	alert(person+ ", Bienvenido a el curso de ingreso de Programacion en UTN FRA!");
+
 }
 
