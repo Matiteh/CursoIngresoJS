@@ -1,0 +1,6 @@
+Comandos git
+
+1- git clone rep
+2- git add .
+3- git commit -m "comentario"
+4- git push
