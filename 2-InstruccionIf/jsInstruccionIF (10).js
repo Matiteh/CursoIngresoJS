@@ -1,13 +1,9 @@
 function mostrar()
 {
 	var valor;
-	var maxymin;
-
-	maxymin= 11-1
 	
-	valor=Math.random()*maxymin;
+	valor=Math.floor((Math.random()*11)+1);
 	
-	valor=Math.round(valor);
 
 	if(valor>=9 && valor<=10)
 	{
